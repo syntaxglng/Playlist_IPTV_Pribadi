@@ -215,14 +215,6 @@ http://103.148.44.38:8000/play/a03t/index.m3u8
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://tvrparlemen.dpr.go.id/?playlist=9306ee8&video=258d16b
-#EXTINF:-1 tvg-id="tvrparlemen.dpr.go.id" tvg-logo="https://tvrparlemen.dpr.go.id/wp-content/uploads/elementor/thumbs/Logo-White-qua4ba3pwe0fkb3nffnrf100sy7v4v1rrrz0t0flcs.png" group-title="Indonesia Channels",TVR Parlemen
-http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.png" group-title="Indonesia Channels", MDTV NET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
@@ -255,13 +247,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/in
 #EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://www.oxygen.id/public/assets/logo_oxygen.png" group-title="Indonesia Channels",Oxygen TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 https://why.biz.id/Iptv/oxygen.php?id=oxygentv
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
-#EXTINF:-1 tvg-id="auto.jakarta.globenews.channel" group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/JakartaGlobe2019.png",Jakarta GlobeNews Channel
-https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6BYfiq2PIJR7wSvY-Dl_0DRHAYBZxepdWnvSgUxm7g&s=10" group-title="Indonesia Channels", TRIBUN NEWS
 https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
