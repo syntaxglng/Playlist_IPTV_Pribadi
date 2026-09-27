@@ -300,7 +300,7 @@ https://vidsemar.pages.dev/terraluna2/8237.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=064
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
-logo="https://www.mncvision.id/userfiles/image/channel/channel_37.jpg" group-title="Kids Channel", Nickelodeon Junior (V+)
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_37.jpg" group-title="Kids Channel", Nickelodeon Junior (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
